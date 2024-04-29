@@ -7,8 +7,8 @@
 🌱 &nbsp;Je suis sur la bonne voie pour en apprendre davantage sur l'intelligence artificielle, la conception de systèmes et l'architecture cloud.\
 ✍️ &nbsp;Pendant mon temps libre, je pratique sur Premiere Pro, After Effect et Photoshop comme passe-temps/activités secondaires.\
 💬 &nbsp;N'hésitez pas à me contacter pour des conseils et du bénévolat pro bono, ou simplement pour une discussion intéressante.\
-✉️ &nbsp;Vous pouvez m'envoyer un e-mail à salihketur60@gmail.com! J'essaierai de répondre dès que possible.\
-📄 &nbsp;Veuillez consulter mon [Résumé](https://mehmetsalihk.vercel.app/) pour plus de détails sur moi. Je suis ouvert aux commentaires et suggestions!
+✉️ &nbsp;Vous pouvez m'envoyer un e-mail à kuscu_m@etna-alternance.net! J'essaierai de répondre dès que possible.\
+📄 &nbsp;Veuillez consulter mon [Résumé](https://linktr.ee/mehmetsalihk) pour plus de détails sur moi. Je suis ouvert aux commentaires et suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -50,4 +50,4 @@
 -----
 Crédits : [Mehmet Salih](https://github.com/MehmetSalihK)
 
-Dernière modification le : 31/01/2024
+Dernière modification le : 29/04/2024
