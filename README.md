@@ -52,11 +52,11 @@
 <p align="center">
 <!-- ## <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/mehmet-salih-kuscu-b3a835221/"><img src="https://img.shields.io/badge/-Mehmet%20Salih%20Kuscu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:salihketur60@gmail.com"><img src="https://img.shields.io/badge/-salihketur60@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kuscu_m@etna-alternance.net"><img src="https://img.shields.io/badge/-salihketur60@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sketur60"><img src="https://img.shields.io/badge/-@sketur60-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
 Crédits : [Mehmet Salih](https://github.com/MehmetSalihK)
 
-Dernière modification le : 29/04/2024
+Dernière modification le : 30/05/2024
