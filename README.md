@@ -56,11 +56,6 @@
 <a href="https://instagram.com/sketur60"><img src="https://img.shields.io/badge/-@sketur60-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31f3l6l4i5kfylg6qqzfqph36fsi">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31f3l6l4i5kfylg6qqzfqph36fsi" alt="Data Card for Spotify">
-</a>
-
 -----
 Crédits : [Mehmet Salih](https://github.com/MehmetSalihK)
 
