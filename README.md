@@ -3,12 +3,12 @@
 ### 👨🏻‍💻 &nbsp;Sur moi
 
 💡 &nbsp;J'aime explorer de nouvelles technologies et développer des solutions logicielles et des hacks rapides.\
-🎓 &nbsp;J'étudie actuellement l'informatique et les mathématiques à l'[Ecole Informatique en Alternance](https://etna.io).\
+🎓 &nbsp;J'étudie actuellement l'informatique et les mathématiques à l'Ecole [Cloud Campus](https://cloud-campus.fr/).\
 🌱 &nbsp;Je suis sur la bonne voie pour en apprendre davantage sur l'intelligence artificielle, la conception de systèmes et l'architecture cloud.\
 ✍️ &nbsp;Pendant mon temps libre, je pratique sur Premiere Pro, After Effect et Photoshop comme passe-temps/activités secondaires.\
 💬 &nbsp;N'hésitez pas à me contacter pour des conseils et du bénévolat pro bono, ou simplement pour une discussion intéressante.\
 ✉️ &nbsp;Vous pouvez m'envoyer un e-mail à kuscu_m@etna-alternance.net! J'essaierai de répondre dès que possible.\
-📄 &nbsp;Veuillez consulter mon [Résumé](https://linktr.ee/mehmetsalihk) pour plus de détails sur moi. Je suis ouvert aux commentaires et suggestions!
+📄 &nbsp;Veuillez consulter mon [Résumé](https://mehmetsalihk.online/) pour plus de détails sur moi. Je suis ouvert aux commentaires et suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -59,4 +59,4 @@
 -----
 Crédits : [Mehmet Salih](https://github.com/MehmetSalihK)
 
-Dernière modification le : 30/05/2024
+Dernière modification le : 25/09/2024
