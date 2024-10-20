@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Salut! Je m'appelle Mehmet Salih</h2>
+<img src="./img/msk.jpg" alt="Banner" style="width:100%;"/>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2> </h2>
 
 ### 👨🏻‍💻 &nbsp;Sur moi
 
@@ -59,4 +61,4 @@
 -----
 Crédits : [Mehmet Salih](https://github.com/MehmetSalihK)
 
-Dernière modification le : 25/09/2024
+Dernière modification le : 20/10/2024
