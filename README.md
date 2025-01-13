@@ -9,8 +9,8 @@
 🌱 &nbsp;Je suis sur la bonne voie pour en apprendre davantage sur l'intelligence artificielle, la conception de systèmes et l'architecture cloud.\
 ✍️ &nbsp;Pendant mon temps libre, je pratique sur Premiere Pro, After Effect et Photoshop comme passe-temps/activités secondaires.\
 💬 &nbsp;N'hésitez pas à me contacter pour des conseils et du bénévolat pro bono, ou simplement pour une discussion intéressante.\
-✉️ &nbsp;Vous pouvez m'envoyer un e-mail à salihketur60@gmail.com! J'essaierai de répondre dès que possible.\
-📄 &nbsp;Veuillez consulter mon [Résumé](https://mehmetsalihk.online/) pour plus de détails sur moi. Je suis ouvert aux commentaires et suggestions!
+✉️ &nbsp;Vous pouvez m'envoyer un e-mail à contact@mehmetsalihk.fr! J'essaierai de répondre dès que possible.\
+📄 &nbsp;Veuillez consulter mon [Résumé](https://mehmetsalihk.fr/) pour plus de détails sur moi. Je suis ouvert aux commentaires et suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -54,11 +54,11 @@
 <p align="center">
 <!-- ## <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/mehmet-salih-kuscu-b3a835221/"><img src="https://img.shields.io/badge/-Mehmet%20Salih%20Kuscu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:salihketur60@gmail.com"><img src="https://img.shields.io/badge/-salihketur60@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:contact@mehmetsalihk.fr"><img src="https://img.shields.io/badge/-contact@mehmetsalihk.fr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sketur60"><img src="https://img.shields.io/badge/-@sketur60-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
 Crédits : [Mehmet Salih](https://github.com/MehmetSalihK)
 
-Dernière modification le : 20/10/2024
+Dernière modification le : 13/01/2025
