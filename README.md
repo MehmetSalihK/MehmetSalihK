@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;Sur moi
 
 💡 &nbsp;J'aime explorer de nouvelles technologies et développer des solutions logicielles et des hacks rapides.\
-🎓 &nbsp;J'étudie actuellement l'informatique et les mathématiques à l'Ecole [Cloud Campus](https://cloud-campus.fr/).\
+🎓 &nbsp;Je prépare actuellement une formation en développement web avec l’[AFCI Amiens](https://www.afci-formation.fr/dwwm/).\
 🌱 &nbsp;Je suis sur la bonne voie pour en apprendre davantage sur l'intelligence artificielle, la conception de systèmes et l'architecture cloud.\
 ✍️ &nbsp;Pendant mon temps libre, je pratique sur Premiere Pro, After Effect et Photoshop comme passe-temps/activités secondaires.\
 💬 &nbsp;N'hésitez pas à me contacter pour des conseils et du bénévolat pro bono, ou simplement pour une discussion intéressante.\
@@ -61,4 +61,4 @@
 -----
 Crédits : [Mehmet Salih](https://github.com/MehmetSalihK)
 
-Dernière modification le : 13/01/2025
+Dernière modification le : 02/09/2025
